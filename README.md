@@ -1,4 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fszrr.medium.com%2Fthe-relationship-between-neuroscience-and-artificial-intelligence-5ed8382714a0&psig=AOvVaw0Q8s2LUbZar7POgTOWnHu6&ust=1741174983497000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjTy7as8IsDFQAAAAAdAAAAABAE
+![image](https://github.com/user-attachments/assets/2ae194ba-ad1e-4dfe-8d38-017650d6bf29)
+
 # Neural Network Training with PyTorch
 
 This project implements a simple **feedforward neural network** using **PyTorch**, with two hidden layers and a final output layer. The model is trained using **backpropagation** and **Stochastic Gradient Descent (SGD)** to minimize the mean squared error (MSE).
