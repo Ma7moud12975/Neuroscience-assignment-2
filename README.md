@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2ae194ba-ad1e-4dfe-8d38-017650d6bf29)
+![image](https://github.com/user-attachments/assets/2191c8c2-f6df-4b20-a0f4-7f1905befe2b)
 
 # Neural Network Training with PyTorch
 
