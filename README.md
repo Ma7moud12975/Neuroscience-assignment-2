@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Neural Network Training with PyTorch
 
 This project implements a simple **feedforward neural network** using **PyTorch**, with two hidden layers and a final output layer. The model is trained using **backpropagation** and **Stochastic Gradient Descent (SGD)** to minimize the mean squared error (MSE).
@@ -30,5 +32,5 @@ This project implements a simple **feedforward neural network** using **PyTorch*
 - PyTorch
 - Matplotlib
 
-## License
-This project is licensed under the MIT License.
+- ## Author
+![Untitled-3](https://github.com/user-attachments/assets/ff01ecca-2503-4f91-825f-c9e641e795fd)
